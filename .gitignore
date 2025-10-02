@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+.vendor/
+vendor/
+
+# Python virtual environments
+.venv/
+*.pyc
+__pycache__/
+
+# Build artifacts
+/dist/
+/build/
+*.log
